@@ -1,6 +1,97 @@
 [
   {
-    "questions": ["test question"],
-    "answer": "This is a placeholder answer."
+    "category": "Gift Cards",
+    "questions": ["gift card", "do you offer gift cards", "can i buy a gift card", "gift certificate"],
+    "answer": "Yes! Gift cards are available in two ways: In-Store gift cards ($25/$50/$75/$100, or custom $10-$250) for shopping in person, and Online gift cards ($25/$50/$75/$100/$150, or custom $10-$250) for online orders with delivery or pickup."
+  },
+  {
+    "category": "Gift Cards",
+    "questions": ["buy gift card online", "online gift card", "order gift card for delivery"],
+    "answer": "You can purchase an Online Gift Card directly on our website — perfect if you're ordering for delivery or pickup. Available in $25, $50, $75, $100, $150, or a custom amount between $10-$250."
+  },
+  {
+    "category": "Gift Cards",
+    "questions": ["in store gift card", "buy gift card in person"],
+    "answer": "In-Store Gift Cards are available for $25, $50, $75, $100, or a custom amount ($10-$250) — best if you're shopping with us in person. Ask our team if you need any help using it."
+  },
+  {
+    "category": "Services",
+    "questions": ["plant styling", "plantscaping", "interior design plants", "do you do plant design"],
+    "answer": "Yes — we offer plantscaping and plant styling services, transforming homes, offices, retail spaces, and special events with a lush, curated look."
+  },
+  {
+    "category": "Services",
+    "questions": ["office plant maintenance", "storefront plant care service", "plant maintenance visits"],
+    "answer": "We provide regular storefront and office maintenance visits, so your indoor plants stay healthy and beautiful year-round."
+  },
+  {
+    "category": "Services",
+    "questions": ["repotting service", "can you repot my plant", "walk in repotting", "plant touch up"],
+    "answer": "Yes — we offer walk-in plant services including repotting, one-time touch-ups, and expert consultations. No appointment needed; just bring your plant in during store hours."
+  },
+  {
+    "category": "Services",
+    "questions": ["plant sitting", "watering my plants while away", "vacation plant care", "who waters my plants when I'm away"],
+    "answer": "We offer plant sitting — we'll water, prune, and care for your plants while you're away, so you come home to healthy, happy greenery."
+  },
+  {
+    "category": "Services",
+    "questions": ["corporate gifting", "plant gifts for clients", "business plant gifts"],
+    "answer": "We offer corporate gifting — distinctive, personalised plant gifts for businesses to show appreciation to clients, employees, or partners for special occasions."
+  },
+  {
+    "category": "Services",
+    "questions": ["corporate workshop", "team building event", "employee appreciation event"],
+    "answer": "Yes — we offer custom plant workshops and experiences for corporate teams, community groups, and organizations, including employee appreciation days and holiday events."
+  },
+  {
+    "category": "Plant Care",
+    "questions": ["what plants do you specialize in", "what kind of plants do you sell", "what types of plants"],
+    "answer": "We specialize in indoor tropical houseplants — Calathea, Peperomia, Begonia, Tradescantia, Aglaonema, Alocasia, Hoya, Pothos, Monstera, Dracaena, Ficus, plus a wide range of succulents, cacti, and ferns — including air-purifying, pet-safe, and beginner-friendly picks."
+  },
+  {
+    "category": "Plant Care",
+    "questions": ["virtual plant advice", "text photo of my plant", "plant diagnosis", "can you help diagnose my plant remotely"],
+    "answer": "Yes — we offer virtual plant advising for struggling houseplants. Text a photo of your plant to (201) 788-9146, and we'll help diagnose the issue and recommend next steps."
+  },
+  {
+    "category": "Store Policies",
+    "questions": ["plant happiness promise", "plant guarantee", "what if my new plant is stressed", "replacement plant policy"],
+    "answer": "We stand behind our plants with our Plant Happiness Promise: if your new plant shows signs of serious stress shortly after purchase, bring it back with your receipt and we'll do everything possible to troubleshoot. In qualifying situations, a one-time replacement may be offered at manager discretion."
+  },
+  {
+    "category": "Store Policies",
+    "questions": ["custom order return", "custom arrangement policy", "specialty order refund"],
+    "answer": "Custom arrangements and specialty orders are final sale. We'll confirm all specifications and preferences with you before fulfillment, so please review order details carefully when placing your order."
+  },
+  {
+    "category": "Store Policies",
+    "questions": ["broke a pot in store", "damaged pottery while shopping", "breakage policy"],
+    "answer": "Please handle pottery and planters carefully while browsing. Items broken due to customer handling must be purchased. If an item arrives damaged or is broken due to store handling, let our staff know right away."
+  },
+  {
+    "category": "Store Policies",
+    "questions": ["transfer workshop ticket", "can someone else use my workshop ticket", "can't attend workshop"],
+    "answer": "Workshop and event tickets are non-refundable, but if you can't attend, your ticket may be transferred to another person with advance notice. No-shows aren't eligible for rescheduling or store credit."
+  },
+  {
+    "category": "Store Policies",
+    "questions": ["event cancelled by sunroom", "workshop cancelled", "what if you cancel the event"],
+    "answer": "If Sunroom Plants needs to cancel an event, all attendees will receive store credit."
+  },
+  {
+    "category": "Store Policies",
+    "questions": ["why does my plant look different than the picture", "plant size variation", "plant looks different than photo"],
+    "answer": "Plants naturally vary in size, fullness, shape, and coloration, and seasonal or environmental conditions can affect appearance and growth. We're always happy to offer care guidance after purchase."
+  },
+  {
+    "category": "About",
+    "questions": ["who owns sunroom plants", "who is the owner", "who founded sunroom plants", "about parul"],
+    "answer": "Sunroom Plants was founded by Parul Giri. Her love of plants began in childhood in India and grew into a passion for helping others bring greenery into their own homes — now shared with the Ridgewood community through the shop, workshops, and personalized plant care guidance."
+  },
+  {
+    "category": "General",
+    "questions": ["are you a real store", "do you have a physical store", "is this a standalone shop", "is sunroom plants inside another store"],
+    "answer": "Yes — Sunroom Plants is a standalone storefront at 59 E Ridgewood Ave, Ridgewood, NJ 07450, open to walk-ins during store hours."
   }
 ]
