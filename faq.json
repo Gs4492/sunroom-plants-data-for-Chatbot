@@ -1,7 +1,7 @@
 [
   {
     "category": "Gift Cards",
-    "questions": ["gift card", "gift cards", "do you offer gift cards", "can i buy a gift card", "gift certificate", "do you sell gift cards", "gift card options"],
+    "questions": ["gift card", "gift cards", "do you offer gift cards", "can i buy a gift card", "gift certificate", "do you sell gift cards", "gift card options", "do you have gift cards"],
     "answer": "Yes! Gift cards are available two ways: In-Store gift cards ($25/$50/$75/$100, or custom $10-$250) for shopping in person, and Online gift cards ($25/$50/$75/$100/$150, or custom $10-$250) for online orders with delivery or pickup."
   },
   {
@@ -16,7 +16,7 @@
   },
   {
     "category": "Services",
-    "questions": ["plant styling", "plantscaping", "interior design plants", "do you do plant design", "plant care services", "do you offer plant care services", "plant design services", "do you style plants", "plant styling for office"],
+    "questions": ["plant styling", "plantscaping", "interior design plants", "do you do plant design", "plant care services", "do you offer plant care services", "plant design services", "do you style plants", "plant styling for office", "do you offer plant styling services", "can you help design my space with plants"],
     "answer": "Yes — we offer plantscaping and plant styling services, transforming homes, offices, retail spaces, and special events with a lush, curated look."
   },
   {
@@ -26,57 +26,72 @@
   },
   {
     "category": "Services",
-    "questions": ["repotting service", "can you repot my plant", "walk in repotting", "plant touch up", "do you repot plants", "plant consultation", "walk in plant help"],
+    "questions": ["repotting service", "can you repot my plant", "walk in repotting", "plant touch up", "do you repot plants", "plant consultation", "walk in plant help", "do you offer plant consultations", "can i bring my plant in for help"],
     "answer": "Yes — we offer walk-in plant services including repotting, one-time touch-ups, and expert consultations. No appointment needed; just bring your plant in during store hours."
   },
   {
     "category": "Services",
-    "questions": ["plant sitting", "watering my plants while away", "vacation plant care", "who waters my plants when i'm away", "plant sitter", "can you watch my plants"],
+    "questions": ["plant sitting", "watering my plants while away", "vacation plant care", "who waters my plants when i'm away", "plant sitter", "can you watch my plants", "do you offer plant sitting"],
     "answer": "We offer plant sitting — we'll water, prune, and care for your plants while you're away, so you come home to healthy, happy greenery."
   },
   {
     "category": "Services",
-    "questions": ["corporate gifting", "plant gifts for clients", "business plant gifts", "gifts for employees", "plant gifts for coworkers"],
+    "questions": ["corporate gifting", "plant gifts for clients", "business plant gifts", "gifts for employees", "plant gifts for coworkers", "do you do corporate gifts"],
     "answer": "We offer corporate gifting — distinctive, personalised plant gifts for businesses to show appreciation to clients, employees, or partners for special occasions."
   },
   {
     "category": "Services",
-    "questions": ["corporate workshop", "team building event", "employee appreciation event", "do you offer corporate events", "company workshop", "workshop for my team"],
+    "questions": ["corporate workshop", "team building event", "employee appreciation event", "do you offer corporate events", "company workshop", "workshop for my team", "do you host workshops for companies"],
     "answer": "Yes — we offer custom plant workshops and experiences for corporate teams, community groups, and organizations, including employee appreciation days and holiday events."
   },
   {
     "category": "Services",
-    "questions": ["book a private workshop", "private plant workshop", "host a workshop for my group", "birthday workshop", "team bonding workshop", "school plant workshop"],
+    "questions": ["book a private workshop", "private plant workshop", "host a workshop for my group", "birthday workshop", "team bonding workshop", "school plant workshop", "how do i book a private workshop", "can i host a workshop here"],
     "answer": "You can host a guided private plant workshop for birthdays, team bonding, celebrations, schools, creative groups, or special gatherings. We provide the plants, materials, and instruction — book a private workshop through our online form."
   },
   {
     "category": "Services",
-    "questions": ["rent the space for an event", "private event rental", "host a party at sunroom plants", "bridal shower venue", "girls night venue", "photoshoot location", "rent your store"],
+    "questions": ["rent the space for an event", "private event rental", "host a party at sunroom plants", "bridal shower venue", "girls night venue", "photoshoot location", "rent your store", "can i host a private event here", "can i host a party here"],
     "answer": "You can rent our plant-filled space for birthdays, bridal showers, girls' nights, intimate celebrations, photoshoots, and other special occasions. Submit a private event inquiry through our online form."
   },
   {
+    "category": "Delivery & Pickup",
+    "questions": ["do you offer local delivery", "do you deliver plants", "delivery area", "what areas do you deliver to", "delivery cost", "how much is delivery", "do you deliver to my area", "local delivery"],
+    "answer": "Yes — we offer local delivery to Ridgewood, NJ and surrounding areas: $5 for nearby zip codes, $10 for extended zip codes, typically delivered within 3–5 business days. We'll contact you directly to arrange a time."
+  },
+  {
+    "category": "Delivery & Pickup",
+    "questions": ["do you ship nationwide", "do you ship out of state", "can you ship my order", "nationwide shipping", "do you ship plants"],
+    "answer": "At this time, we do not offer nationwide shipping — delivery is local to Ridgewood, NJ and the surrounding area, or you're welcome to pick up in-store."
+  },
+  {
+    "category": "Delivery & Pickup",
+    "questions": ["how does pickup work", "in store pickup", "can i pick up my order", "pickup process", "store pickup"],
+    "answer": "Once your order is ready, we'll contact you with pickup details and timing for our Ridgewood storefront at 59 E Ridgewood Ave."
+  },
+  {
     "category": "Plant Care",
-    "questions": ["what plants do you specialize in", "what kind of plants do you sell", "what types of plants", "what plants do you carry", "what species do you have"],
+    "questions": ["what plants do you specialize in", "what kind of plants do you sell", "what types of plants", "what plants do you carry", "what species do you have", "what plants does sunroom sell"],
     "answer": "We specialize in indoor tropical houseplants — Calathea, Peperomia, Begonia, Tradescantia, Aglaonema, Alocasia, Hoya, Pothos, Monstera, Dracaena, Ficus, plus a wide range of succulents, cacti, and ferns — including air-purifying, pet-safe, and beginner-friendly picks."
   },
   {
     "category": "Plant Care",
-    "questions": ["how often should i water my plant", "how much water does my plant need", "watering frequency", "how often to water houseplants"],
+    "questions": ["how often should i water my plant", "how much water does my plant need", "watering frequency", "how often to water houseplants", "when should i water my plants"],
     "answer": "Watering depends on the type of plant, lighting, and season. Most houseplants prefer watering once the top inch of soil feels dry."
   },
   {
     "category": "Plant Care",
-    "questions": ["virtual plant advice", "text photo of my plant", "plant diagnosis", "can you help diagnose my plant remotely", "remote plant advice", "text a picture of my plant"],
+    "questions": ["virtual plant advice", "text photo of my plant", "plant diagnosis", "can you help diagnose my plant remotely", "remote plant advice", "text a picture of my plant", "can i get plant care advice for a struggling houseplant", "my plant needs help"],
     "answer": "Yes — we offer virtual plant advising for struggling houseplants. Text a photo of your plant to (201) 788-9146, and we'll help diagnose the issue and recommend next steps."
   },
   {
     "category": "Plant Care",
-    "questions": ["what's currently in stock", "current plant availability", "what plants are available this week", "live inventory", "plant availability page"],
+    "questions": ["what's currently in stock", "current plant availability", "what plants are available this week", "live inventory", "plant availability page", "how do i know what plants are currently in stock", "what's in store this week"],
     "answer": "Check our live Plant Availability page, updated weekly with our current in-store inventory — you can see exactly which plants are available right now before visiting or ordering."
   },
   {
     "category": "Store Policies",
-    "questions": ["plant happiness promise", "plant guarantee", "what if my new plant is stressed", "replacement plant policy", "plant died after i bought it", "warranty on plants"],
+    "questions": ["plant happiness promise", "plant guarantee", "what if my new plant is stressed", "replacement plant policy", "plant died after i bought it", "warranty on plants", "is there a guarantee on plants"],
     "answer": "We stand behind our plants with our Plant Happiness Promise: if your new plant shows signs of serious stress shortly after purchase, bring it back with your receipt and we'll do everything possible to troubleshoot. In qualifying situations, a one-time replacement may be offered at manager discretion."
   },
   {
@@ -125,13 +140,18 @@
     "answer": "Parul Giri, founder of Sunroom Plants, spent two decades as a graphic designer before turning her passion for plants into the shop — she brings that same design eye to plant styling and the shop's look and feel."
   },
   {
+    "category": "About",
+    "questions": ["where is sunroom plants located", "where are you located", "what is your address", "where can i find your store", "sunroom plants address", "where is your shop"],
+    "answer": "Sunroom Plants is located at 59 E Ridgewood Ave, Ridgewood, NJ 07450 — a standalone storefront in the heart of downtown Ridgewood, easy to find and open to walk-ins during store hours."
+  },
+  {
     "category": "General",
     "questions": ["are you a real store", "do you have a physical store", "is this a standalone shop", "is sunroom plants inside another store", "is this a pop up", "do you have a storefront"],
     "answer": "Yes — Sunroom Plants is a standalone storefront at 59 E Ridgewood Ave, Ridgewood, NJ 07450, open to walk-ins during store hours."
   },
   {
     "category": "General",
-    "questions": ["plant matchmaker", "plant quiz", "help me find the right plant", "not sure which plant to get", "plant recommendation quiz"],
+    "questions": ["plant matchmaker", "plant quiz", "help me find the right plant", "not sure which plant to get", "plant recommendation quiz", "help me pick a plant", "which plant should i get", "help me choose a plant", "what plant is right for me", "not sure which plant is right for me"],
     "answer": "Try our Plant Matchmaker quiz on the website — answer 4 quick questions about your light, space, and lifestyle, and we'll suggest personalised plant matches for you."
   },
   {
