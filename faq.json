@@ -55,21 +55,6 @@
     "answer": "You can rent our plant-filled space for birthdays, bridal showers, girls' nights, intimate celebrations, photoshoots, and other special occasions. Submit a private event inquiry through our online form."
   },
   {
-    "category": "Delivery & Pickup",
-    "questions": ["do you offer local delivery", "do you deliver plants", "delivery area", "what areas do you deliver to", "delivery cost", "how much is delivery", "do you deliver to my area", "local delivery"],
-    "answer": "Yes — we offer local delivery to Ridgewood, NJ and surrounding areas: $5 for nearby zip codes, $10 for extended zip codes, typically delivered within 3–5 business days. We'll contact you directly to arrange a time."
-  },
-  {
-    "category": "Delivery & Pickup",
-    "questions": ["do you ship nationwide", "do you ship out of state", "can you ship my order", "nationwide shipping", "do you ship plants"],
-    "answer": "At this time, we do not offer nationwide shipping — delivery is local to Ridgewood, NJ and the surrounding area, or you're welcome to pick up in-store."
-  },
-  {
-    "category": "Delivery & Pickup",
-    "questions": ["how does pickup work", "in store pickup", "can i pick up my order", "pickup process", "store pickup"],
-    "answer": "Once your order is ready, we'll contact you with pickup details and timing for our Ridgewood storefront at 59 E Ridgewood Ave."
-  },
-  {
     "category": "Plant Care",
     "questions": ["what plants do you specialize in", "what kind of plants do you sell", "what types of plants", "what plants do you carry", "what species do you have", "what plants does sunroom sell"],
     "answer": "We specialize in indoor tropical houseplants — Calathea, Peperomia, Begonia, Tradescantia, Aglaonema, Alocasia, Hoya, Pothos, Monstera, Dracaena, Ficus, plus a wide range of succulents, cacti, and ferns — including air-purifying, pet-safe, and beginner-friendly picks."
@@ -138,11 +123,6 @@
     "category": "About",
     "questions": ["what is parul's background", "does parul have a design background", "is the owner a designer"],
     "answer": "Parul Giri, founder of Sunroom Plants, spent two decades as a graphic designer before turning her passion for plants into the shop — she brings that same design eye to plant styling and the shop's look and feel."
-  },
-  {
-    "category": "About",
-    "questions": ["where is sunroom plants located", "where are you located", "what is your address", "where can i find your store", "sunroom plants address", "where is your shop"],
-    "answer": "Sunroom Plants is located at 59 E Ridgewood Ave, Ridgewood, NJ 07450 — a standalone storefront in the heart of downtown Ridgewood, easy to find and open to walk-ins during store hours."
   },
   {
     "category": "General",
