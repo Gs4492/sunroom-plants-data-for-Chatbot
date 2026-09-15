@@ -1,1 +1,160 @@
-
+{
+  "generated": "2026-09-15",
+  "plants": {
+    "Aglaonema": {
+      "inStore": true,
+      "onWebsite": true,
+      "websiteUrl": "aglaonema-chinese-evergreen"
+    },
+    "Alocasia": {
+      "inStore": true,
+      "onWebsite": true,
+      "websiteUrl": "alocasia-polly"
+    },
+    "Anthurium": {
+      "inStore": true,
+      "onWebsite": true,
+      "websiteUrl": "anthurium"
+    },
+    "Begonia Maculata": {
+      "inStore": false,
+      "onWebsite": false,
+      "websiteUrl": "begonia-maculata"
+    },
+    "Begonia Rex": {
+      "inStore": true,
+      "onWebsite": true,
+      "websiteUrl": "begonia-rex"
+    },
+    "Bromeliad Guzmania": {
+      "inStore": true,
+      "onWebsite": true,
+      "websiteUrl": "bromeliad-guzmania"
+    },
+    "Cactus": {
+      "inStore": true,
+      "onWebsite": true,
+      "websiteUrl": "cactus"
+    },
+    "Calathea": {
+      "inStore": true,
+      "onWebsite": true,
+      "websiteUrl": "calathea-rattlesnake"
+    },
+    "Chinese Money Plant": {
+      "inStore": true,
+      "onWebsite": true,
+      "websiteUrl": "chinese-money-plant"
+    },
+    "Christmas Cactus": {
+      "inStore": true,
+      "onWebsite": false,
+      "websiteUrl": ""
+    },
+    "Dracaena": {
+      "inStore": true,
+      "onWebsite": false,
+      "websiteUrl": "dracaena-song-of-india"
+    },
+    "Fern - Bird's Nest": {
+      "inStore": true,
+      "onWebsite": true,
+      "websiteUrl": "fern-birds-nest"
+    },
+    "Fern - Boston": {
+      "inStore": false,
+      "onWebsite": false,
+      "websiteUrl": ""
+    },
+    "Fern - Lemon Button": {
+      "inStore": true,
+      "onWebsite": false,
+      "websiteUrl": "fern-lemon-button"
+    },
+    "Ferns": {
+      "inStore": false,
+      "onWebsite": false,
+      "websiteUrl": ""
+    },
+    "Fiddle Leaf Fig": {
+      "inStore": true,
+      "onWebsite": true,
+      "websiteUrl": "fiddle-leaf-fig-ficus"
+    },
+    "Jade": {
+      "inStore": true,
+      "onWebsite": true,
+      "websiteUrl": "succulent-silver-jade"
+    },
+    "Kokedama": {
+      "inStore": false,
+      "onWebsite": false,
+      "websiteUrl": ""
+    },
+    "Monstera Deliciosa": {
+      "inStore": true,
+      "onWebsite": true,
+      "websiteUrl": "monstera-deliciosa"
+    },
+    "Peace Lily": {
+      "inStore": true,
+      "onWebsite": true,
+      "websiteUrl": "peace-lily"
+    },
+    "Pothos Golden": {
+      "inStore": true,
+      "onWebsite": true,
+      "websiteUrl": "golden-pothos-hanging-basket"
+    },
+    "Pothos Marble Queen": {
+      "inStore": true,
+      "onWebsite": false,
+      "websiteUrl": "pothos-marble-queen"
+    },
+    "Pothos Neon": {
+      "inStore": true,
+      "onWebsite": false,
+      "websiteUrl": ""
+    },
+    "Rubber Tree Burgundy": {
+      "inStore": false,
+      "onWebsite": false,
+      "websiteUrl": "rubber-tree-burgundy"
+    },
+    "Rubber Tree Variegated": {
+      "inStore": true,
+      "onWebsite": true,
+      "websiteUrl": "rubber-tree-variegated"
+    },
+    "Sansevieria": {
+      "inStore": false,
+      "onWebsite": false,
+      "websiteUrl": ""
+    },
+    "Snake Plant": {
+      "inStore": true,
+      "onWebsite": false,
+      "websiteUrl": "snake-golden"
+    },
+    "String of Pearls": {
+      "inStore": false,
+      "onWebsite": false,
+      "websiteUrl": "string-of-pearls"
+    },
+    "Succulents": {
+      "inStore": true,
+      "onWebsite": false,
+      "websiteUrl": ""
+    },
+    "Tradescantia Nanouk": {
+      "inStore": false,
+      "onWebsite": false,
+      "websiteUrl": "tradescantia-lavender-nanouk"
+    },
+    "ZZ Plant": {
+      "inStore": true,
+      "onWebsite": false,
+      "websiteUrl": "zz-plant"
+    }
+  }
+}
