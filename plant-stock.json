@@ -17,8 +17,8 @@
       "websiteUrl": "anthurium"
     },
     "Begonia Maculata": {
-      "inStore": false,
-      "onWebsite": false,
+      "inStore": true,
+      "onWebsite": true,
       "websiteUrl": "begonia-maculata"
     },
     "Begonia Rex": {
@@ -47,13 +47,13 @@
       "websiteUrl": "chinese-money-plant"
     },
     "Christmas Cactus": {
-      "inStore": true,
+      "inStore": false,
       "onWebsite": false,
       "websiteUrl": ""
     },
     "Dracaena": {
       "inStore": true,
-      "onWebsite": false,
+      "onWebsite": true,
       "websiteUrl": "dracaena-song-of-india"
     },
     "Fern - Bird's Nest": {
@@ -62,13 +62,13 @@
       "websiteUrl": "fern-birds-nest"
     },
     "Fern - Boston": {
-      "inStore": false,
+      "inStore": true,
       "onWebsite": false,
       "websiteUrl": ""
     },
     "Fern - Lemon Button": {
       "inStore": true,
-      "onWebsite": false,
+      "onWebsite": true,
       "websiteUrl": "fern-lemon-button"
     },
     "Ferns": {
@@ -79,17 +79,12 @@
     "Fiddle Leaf Fig": {
       "inStore": true,
       "onWebsite": true,
-      "websiteUrl": "fiddle-leaf-fig-ficus"
+      "websiteUrl": "fiddle-leaf-fig-standard"
     },
     "Jade": {
       "inStore": true,
       "onWebsite": true,
       "websiteUrl": "succulent-silver-jade"
-    },
-    "Kokedama": {
-      "inStore": false,
-      "onWebsite": false,
-      "websiteUrl": ""
     },
     "Monstera Deliciosa": {
       "inStore": true,
@@ -104,11 +99,11 @@
     "Pothos Golden": {
       "inStore": true,
       "onWebsite": true,
-      "websiteUrl": "golden-pothos-hanging-basket"
+      "websiteUrl": "pothos-golden-hb"
     },
     "Pothos Marble Queen": {
       "inStore": true,
-      "onWebsite": false,
+      "onWebsite": true,
       "websiteUrl": "pothos-marble-queen"
     },
     "Pothos Neon": {
@@ -117,8 +112,8 @@
       "websiteUrl": ""
     },
     "Rubber Tree Burgundy": {
-      "inStore": false,
-      "onWebsite": false,
+      "inStore": true,
+      "onWebsite": true,
       "websiteUrl": "rubber-tree-burgundy"
     },
     "Rubber Tree Variegated": {
@@ -127,33 +122,33 @@
       "websiteUrl": "rubber-tree-variegated"
     },
     "Sansevieria": {
-      "inStore": false,
-      "onWebsite": false,
-      "websiteUrl": ""
+      "inStore": true,
+      "onWebsite": true,
+      "websiteUrl": "snake-golden"
     },
     "Snake Plant": {
       "inStore": true,
-      "onWebsite": false,
+      "onWebsite": true,
       "websiteUrl": "snake-golden"
     },
     "String of Pearls": {
-      "inStore": false,
-      "onWebsite": false,
+      "inStore": true,
+      "onWebsite": true,
       "websiteUrl": "string-of-pearls"
     },
     "Succulents": {
       "inStore": true,
-      "onWebsite": false,
-      "websiteUrl": ""
+      "onWebsite": true,
+      "websiteUrl": "succulent-golden-sedum"
     },
     "Tradescantia Nanouk": {
-      "inStore": false,
-      "onWebsite": false,
+      "inStore": true,
+      "onWebsite": true,
       "websiteUrl": "tradescantia-lavender-nanouk"
     },
     "ZZ Plant": {
       "inStore": true,
-      "onWebsite": false,
+      "onWebsite": true,
       "websiteUrl": "zz-plant"
     }
   }
