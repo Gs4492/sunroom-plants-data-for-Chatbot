@@ -2,7 +2,7 @@
   {
     "category": "Gift Cards",
     "questions": ["gift card", "do you offer gift cards", "can i buy a gift card", "gift certificate"],
-    "answer": "Yes! Gift cards are available two ways: In-Store gift cards ($25/$50/$75/$100, or custom $10-$250) for shopping in person, and Online gift cards ($25/$50/$75/$100/$150, or custom $10-$250) for online orders with delivery or pickup."
+    "answer": "Yes! Gift cards are available in two ways: In-Store gift cards ($25/$50/$75/$100, or custom $10-$250) for shopping in person, and Online gift cards ($25/$50/$75/$100/$150, or custom $10-$250) for online orders with delivery or pickup."
   },
   {
     "category": "Gift Cards",
@@ -26,12 +26,12 @@
   },
   {
     "category": "Services",
-    "questions": ["repotting service", "can you repot my plant", "walk in repotting", "plant touch up", "plant restoration", "on site repotting", "repot at home"],
-    "answer": "Yes — we offer walk-in plant repotting, touch-ups, and restoration, no appointment needed, just bring your plant in during store hours. Prefer we come to you? We also offer on-site repotting and plant restoration by appointment, at your home, office, or business."
+    "questions": ["repotting service", "can you repot my plant", "walk in repotting", "plant touch up", "Houseplant restoration", "on site repotting", "repot at home"],
+    "answer": "Yes — we offer walk-in plant repotting, touch-ups, and Houseplant restoration; no appointment needed- just bring your plant in during store hours. Prefer we come to you? We also offer on-site repotting and plant restoration by appointment, at your home, office, or business."
   },
   {
     "category": "Services",
-    "questions": ["plant sitting", "watering my plants while away", "vacation plant care", "who waters my plants when im away"],
+    "questions": ["plant sitting", "watering my plants while away", "vacation plant care", "who waters my plants when I'm away"],
     "answer": "We offer plant sitting — we'll water, prune, and care for your plants while you're away, so you come home to healthy, happy greenery."
   },
   {
